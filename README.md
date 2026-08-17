@@ -44,9 +44,3 @@ Para visualizar corretamente:
 * Microsoft Excel
 * Conceitos de Redes Neurais
 * Modelo Perceptron
-
-## 🎓 Contexto
-
-Este projeto foi desenvolvido como **atividade acadêmica**, com o objetivo de demonstrar o funcionamento de um perceptron de forma prática utilizando ferramentas acessíveis.
-
----
